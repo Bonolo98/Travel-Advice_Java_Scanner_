@@ -48,7 +48,7 @@ public class Hello {
                 System.out.println("___________________________");
                 System.out.println("Yes, There are taxis and you can afford a to take one to Brixton");
 
-            } else if (taxisAvailableAnswer.contains("no") || taxisAvailableAnswer.contains("Nop")
+            } else if (taxisAvailableAnswer.contains("no") || taxisAvailableAnswer.contains("nop")
                     || taxisAvailableAnswer.contains("nah")) {
                 System.out.println("___________________________");
                 System.out.println("No, There are no taxis to Brixton");
