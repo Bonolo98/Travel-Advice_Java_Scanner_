@@ -1,4 +1,4 @@
-package ForLoop;
+package Loops.WhileLoop;
 
 public class While {
 
