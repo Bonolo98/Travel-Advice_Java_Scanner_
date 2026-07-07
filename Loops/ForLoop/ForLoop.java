@@ -1,7 +1,5 @@
 package Loops.ForLoop;
 
-import java.util.Scanner;
-
 public class ForLoop {
     public static void main(String a[]) throws InterruptedException {
 
@@ -19,6 +17,7 @@ public class ForLoop {
         // For Loop Decrement
         for (int x = 10; x > 0; x--) {
             System.out.println("This is x value: " + x);
+            Thread.sleep(1000);
         }
 
     }
